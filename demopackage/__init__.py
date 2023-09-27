@@ -1,0 +1,1 @@
+print("day la file __init__py")
